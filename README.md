@@ -6,6 +6,7 @@
 
 Welcome to the "ISM Based Automatic Agriculture" project repository! This project represents an innovative, user-friendly approach to modernizing agriculture practices by simplifying the deployment of complex sensor networks in the field. Inspired by the concept of creating a system like Lego blocks, this project introduces a wireless, modular approach to agriculture automation, driven by cutting-edge technologies like machine learning, deep learning, edge computing, and IoT (Internet of Things).
 
+![Logo]()
 
 ## Vision and Inspiration
 
@@ -20,6 +21,10 @@ The core concept of this project is to provide farmers with modular sensor units
 * Control units have color-coded slots corresponding to the parameters being monitored. Farmers simply insert the receivers into the matching slots.
 * The sensors in the field communicate with one another in a mesh network, ensuring robust data collection.
 * Data is transmitted to the cloud via GSM modules present in the sensors.
+  
+  ![Logo](WhatsApp Image 2023-09-19 at 5 12 26 PM](https://github.com/dhanushkandagatla/ISM-Based-Smart-Irrigation-for-Scalable-Agriculture/assets/124101821/aa30a1f5-e1d6-40bb-a84f-511755697d2d)
+  ![Logo]()
+  
 ## Key Features
 
 * Modular and user-friendly sensor system.
@@ -29,6 +34,7 @@ The core concept of this project is to provide farmers with modular sensor units
 * Machine learning and deep learning algorithms for data insights.
 * Actuator control based on real-time data.
 * Predictive suggestions for farmers using edge computing.
+ 
 ## Getting Started
 
 To get started with the "ISM Based Automatic Agriculture" project, follow these steps:
