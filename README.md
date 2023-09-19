@@ -7,6 +7,8 @@ Welcome to the "ISM Based Automatic Agriculture" project repository! This projec
 
 ![WhatsApp Image 2023-09-19 at 5 10 26 PM](https://github.com/dhanushkandagatla/ISM-Based-Smart-Irrigation-for-Scalable-Agriculture/assets/124101821/65bff195-2767-4b9f-9d13-ad351a1021bb)
 
+video: https://drive.google.com/file/d/1SVRjXb9WFUPKTAVq6TPBheqgE3DyGDUL/view?usp=sharing
+
 ## Vision and Inspiration
 
 Traditional agriculture practices often require farmers to manage complex arrays of sensors for monitoring various parameters like humidity, pH levels, and more. However, many farmers lack technical education and find it challenging to set up and maintain these systems. This project was born out of the vision to make advanced agriculture technology accessible to all farmers, regardless of their technical expertise. By integrating machine learning and deep learning techniques, we aim to empower farmers with data-driven insights, all while utilizing edge computing for real-time decision-making.
